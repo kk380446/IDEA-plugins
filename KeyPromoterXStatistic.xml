@@ -1,5 +1,15 @@
 <application>
   <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
     <option name="suppressed">
       <Statistic Action="Project">
         <Item>
