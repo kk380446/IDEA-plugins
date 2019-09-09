@@ -1,6 +1,6 @@
 <application>
   <component name="KeyPromoterXStatistic">
-    <option name="statistics">
+    <option name="suppressed">
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
